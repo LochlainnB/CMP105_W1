@@ -21,4 +21,10 @@ private:
 
 	sf::RectangleShape rect;
 	sf::CircleShape circle;
+	sf::RectangleShape bigRect;
+	sf::RectangleShape medRect;
+	sf::RectangleShape smlRect;
+	sf::Font font;
+	sf::Text text;
+	sf::RectangleShape botRight;
 };
